@@ -1,0 +1,14 @@
+C:\Users\administrator\Documents\backup\C#\obj\Debug\HU41ID.csproj.AssemblyReference.cache
+C:\Users\administrator\Documents\backup\C#\obj\Debug\HU41ID.csproj.SuggestedBindingRedirects.cache
+C:\Users\administrator\Documents\backup\C#\obj\Debug\HU41ID.HU41ID.resources
+C:\Users\administrator\Documents\backup\C#\obj\Debug\HU41ID.Properties.Resources.resources
+C:\Users\administrator\Documents\backup\C#\obj\Debug\HU41ID.csproj.GenerateResource.cache
+C:\Users\administrator\Documents\backup\C#\obj\Debug\HU41ID.csproj.CoreCompileInputs.cache
+C:\Users\administrator\Documents\backup\C#\obj\Debug\HU41-ID.exe
+C:\Users\administrator\Documents\backup\C#\obj\Debug\HU41-ID.pdb
+C:\Users\administrator\Documents\backup\C#\bin\Debug\libcidbio.dll
+C:\Users\administrator\Documents\backup\C#\bin\Debug\HU41-ID.exe.config
+C:\Users\administrator\Documents\backup\C#\bin\Debug\HU41-ID.exe
+C:\Users\administrator\Documents\backup\C#\bin\Debug\HU41-ID.pdb
+C:\Users\administrator\Documents\backup\C#\bin\Debug\CIDBio.dll
+C:\Users\administrator\Documents\backup\C#\obj\Debug\HU41ID.csproj.CopyComplete
